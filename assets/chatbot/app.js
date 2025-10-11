@@ -13,7 +13,7 @@ class CivicReportApp {
         // --- Properties ---
         // WARNING: Storing API keys client-side is not secure.
         // This is for demonstration purposes only.
-        this.GEMINI_API_KEY = "AIzaSyAMnIdssbJ9VQjekY2t-kEfSAAgDKcB1ps";
+        this.GEMINI_API_KEY = "PASTE_YOUR_VALID_GEMINI_API_KEY_HERE";
         
         this.userMessage = null;
         this.inputInitHeight = this.chatInput.scrollHeight;
